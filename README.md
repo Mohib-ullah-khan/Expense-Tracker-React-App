@@ -13,5 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ## App Look
-
 ![expense-app](https://user-images.githubusercontent.com/56031807/149509259-83789b80-23cb-4576-889e-78c51280477b.PNG)
